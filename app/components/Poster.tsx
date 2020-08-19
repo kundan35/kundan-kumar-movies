@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
             height: 2,
         },
         textShadowRadius: 2,
-        flex: 1,
+        //flex: 1,
     },
     reviews: {
         color: 'white',
